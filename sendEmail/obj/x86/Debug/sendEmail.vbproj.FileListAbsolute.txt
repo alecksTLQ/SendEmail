@@ -1,0 +1,12 @@
+C:\Users\Stuard\AppData\Local\Temporary Projects\sendEmail\bin\Debug\sendEmail.exe
+C:\Users\Stuard\AppData\Local\Temporary Projects\sendEmail\bin\Debug\sendEmail.pdb
+C:\Users\Stuard\AppData\Local\Temporary Projects\sendEmail\bin\Debug\sendEmail.xml
+C:\Users\Stuard\AppData\Local\Temporary Projects\sendEmail\obj\x86\Debug\sendEmail.Form1.resources
+C:\Users\Stuard\AppData\Local\Temporary Projects\sendEmail\obj\x86\Debug\sendEmail.Resources.resources
+C:\Users\Stuard\AppData\Local\Temporary Projects\sendEmail\obj\x86\Debug\sendEmail.vbproj.GenerateResource.Cache
+C:\Users\Stuard\AppData\Local\Temporary Projects\sendEmail\obj\x86\Debug\sendEmail.exe
+C:\Users\Stuard\AppData\Local\Temporary Projects\sendEmail\obj\x86\Debug\sendEmail.xml
+C:\Users\Stuard\AppData\Local\Temporary Projects\sendEmail\obj\x86\Debug\sendEmail.pdb
+C:\Users\Stuard\documents\visual studio 2010\Projects\sendEmail\sendEmail\obj\x86\Debug\sendEmail.exe
+C:\Users\Stuard\documents\visual studio 2010\Projects\sendEmail\sendEmail\obj\x86\Debug\sendEmail.xml
+C:\Users\Stuard\documents\visual studio 2010\Projects\sendEmail\sendEmail\obj\x86\Debug\sendEmail.pdb
